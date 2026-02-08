@@ -12,7 +12,7 @@ Just finished Module 3 - Data Warehousing with BigQuery. Learned how to:
 
 Working with 20M+ records and learning how partitioning reduces query costs!
 
-Here's my homework solution: <LINK>
+Here's my homework solution: https://github.com/jpmp316/zoomcamp-dataenginner-homework3
 
 Following along with this amazing free course - who else is learning data engineering?
 
